@@ -26,4 +26,4 @@ print("{:.2f}".format(d))
 ### OUTPUT:
 !['output'](/Screenshot%20from%202022-12-31%2017-18-03.png)
 ### RESULT:
-Thus the
+Thus the distance between two points is executed successfully.
